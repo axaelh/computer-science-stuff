@@ -1,0 +1,1 @@
+Select * From games Where name LIKE '%Zelda%'

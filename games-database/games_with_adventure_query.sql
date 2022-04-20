@@ -1,0 +1,1 @@
+Select * From games inner join (select * from gamegenres where genre_name = 'Adventure') gamesgenres on games.game_id = gamesgenres.game_id;

@@ -1,0 +1,1 @@
+Select * From games Where first_release_date between '2002-05-07 00:00:00' and '2002-12-31 23:59:59';
